@@ -1,0 +1,3 @@
+interface AttackStrategy {
+    void attack();
+}
