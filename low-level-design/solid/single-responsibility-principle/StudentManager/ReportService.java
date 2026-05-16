@@ -1,0 +1,4 @@
+class ReportService {
+
+    void generateReport() {}
+}

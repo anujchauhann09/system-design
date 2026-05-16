@@ -1,0 +1,4 @@
+class InventoryService {
+
+    void updateInventory() {}
+}
