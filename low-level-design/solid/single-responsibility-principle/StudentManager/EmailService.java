@@ -1,0 +1,4 @@
+class EmailService {
+
+    void sendEmail() {}
+}

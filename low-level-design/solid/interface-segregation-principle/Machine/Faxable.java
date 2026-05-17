@@ -1,0 +1,4 @@
+interface Faxable {
+
+    void fax();
+}

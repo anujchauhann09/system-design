@@ -1,0 +1,4 @@
+interface Scannable {
+
+    void scan();
+}
