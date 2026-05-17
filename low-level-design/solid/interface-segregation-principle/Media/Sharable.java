@@ -1,0 +1,4 @@
+interface Sharable {
+
+    void share();
+}

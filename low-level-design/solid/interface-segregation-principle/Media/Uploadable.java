@@ -1,0 +1,4 @@
+interface Uploadable {
+
+    void upload();
+}
